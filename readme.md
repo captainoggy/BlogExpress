@@ -3,7 +3,7 @@
 This blog is an exploration exercise to understand two new technologies - GraphQL and Relay. We are using standard rails application together with webpack for handling front-end dependencies.
 
 ### Status
-Application supports reading and creating data from and on server using GraphQL.
+Application supports reading and creating data from and on the server using GraphQL.
 
 #### Current features
 * List posts
